@@ -1,5 +1,1 @@
-﻿static void P(bool)
-{
-
-    Console;
-}
+﻿Console.WriteLine("Test");
